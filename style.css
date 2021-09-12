@@ -371,3 +371,39 @@
   border-color: black;
   border-width: 20px;
 }
+
+#snew1 {
+  background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWJzdHJhY3QlMjBjb2xvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+  border-radius: 5px;
+  color: white;
+  height: 500px;
+  width: 1000px;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  position: sticky;
+  margin-top: 250px;
+}
+
+#snew3,
+#snew4,
+#snew5 {
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+#movie {
+  height: 30px;
+  width: 500px;
+  background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWJzdHJhY3QlMjBjb2xvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+}
+
+
+#skyline {
+  border-radius: 20px;
+  width: 200px;
+  height: 10px;
+  background-color: white;
+  margin-right: 765px;
+}
