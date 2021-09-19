@@ -407,3 +407,22 @@
   background-color: white;
   margin-right: 765px;
 }
+
+.img-responsive img-circle col-lg-3 col-md-3 col-sm-3 col-xs-4 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100;
+}
+
+#alumni {
+  margin-bottom: 200px;
+}
+
+#Man_on_the_Moon,
+#Man_on_the_Moon1,
+#Man_on_the_Moon2 {
+  margin-top: 50px;
+  height: 300px;
+  width: 600px;
+  margin-left: 100px;
+}
